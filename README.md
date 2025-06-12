@@ -1,3 +1,5 @@
+![Banner](https://www.infosyscap.net/assets/images/banner.png)
+
 # 👋 Benvenuto nel mio Profilo GitHub!
 
 Sono **Timoteo Capurro**, un **freelance IT specialist** con esperienza sia come **sysadmin** che come **full-stack developer**. Mi occupo di soluzioni IT avanzate per la gestione delle infrastrutture e lo sviluppo di applicazioni web sicure e scalabili.
