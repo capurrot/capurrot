@@ -1,6 +1,6 @@
-# Benvenuti su **Timoteo Capurro** 🚀
+# Ciao, sono **Timoteo Capurro** 🚀
 
-**Timoteo Capurro** è un **freelance IT specialist** con esperienza sia come **sysadmin** che come **full-stack developer**. Mi occupo di soluzioni IT avanzate per la gestione delle infrastrutture e lo sviluppo di applicazioni web sicure e scalabili. 
+sono un **freelance IT specialist** con esperienza sia come **sysadmin** che come **full-stack developer**. Mi occupo di soluzioni IT avanzate per la gestione delle infrastrutture e lo sviluppo di applicazioni web sicure e scalabili. 
 
 Sono appassionato di **cloud computing**, **sicurezza IT**, e **open source**, e mi piace lavorare con le tecnologie più moderne come **React**, **Node.js**, **Spring Boot**, e molto altro.
 
