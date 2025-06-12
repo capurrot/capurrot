@@ -1,28 +1,92 @@
-# Ciao! 👋 Sono Timoteo Capurro
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Infosyscap - Profilo GitHub</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      color: #333;
+      line-height: 1.6;
+    }
 
-Benvenuto nel mio profilo GitHub! Sono un **freelance IT specialist**, con esperienza sia come **sysadmin** che come **full-stack developer**. Lavoro con tecnologie moderne come **React**, **Node.js**, **Spring Boot**, e mi occupo anche di **gestione di infrastrutture cloud**, **sicurezza IT**, e **automazione**.
+    h1, h2 {
+      color: #4A90E2;
+    }
 
-## Cosa faccio? 🚀
+    h3 {
+      color: #9B59B6;
+    }
 
-- **Full-stack Development**: Creazione di applicazioni web scalabili e sicure.
-- **Sysadmin**: Gestione e ottimizzazione di server, implementazione di soluzioni cloud e automazione.
-- **Consulenza IT**: Offro soluzioni personalizzate per PMI e professionisti.
+    .section {
+      margin-bottom: 30px;
+    }
 
-## Progetti in evidenza ⚡️
+    .highlight {
+      color: #4CAF50;
+      font-weight: bold;
+    }
 
-- [**FocusField+**](https://www.focusfield.it) - Un'app di benessere che integra mood-based activities, esercizi di respirazione e musica personalizzata.
-- [**Infosyscap**](https://www.infosyscap.net) - Soluzioni IT per la gestione delle infrastrutture e sviluppo software, con un focus sull'open source.
+    a {
+      color: #9B59B6;
+      text-decoration: none;
+    }
 
-## Contributi Open Source 🌍
+    .banner {
+      width: 100%;
+      height: auto;
+      margin-bottom: 20px;
+    }
+  </style>
+</head>
+<body>
 
-Contribuisco attivamente a progetti open source per migliorare la comunità tecnologica. Dai un'occhiata ai miei repository per scoprire i miei lavori più recenti.
+  <img src="https://www.infosyscap.net/banner-image.png" alt="Infosyscap Banner" class="banner">
 
-## Contattami 📩
+  <div class="section">
+    <h1>Benvenuti su **Infosyscap** 🚀</h1>
+    <p>**Infosyscap** è un'azienda freelance che si occupa di soluzioni IT avanzate per la gestione delle infrastrutture e lo sviluppo di applicazioni web scalabili e sicure. Specializzati in amministrazione di sistemi, **cloud computing**, **sicurezza IT** e **full-stack development**.</p>
+  </div>
 
-Se desideri lavorare insieme, non esitare a contattarmi!  
-- 📧 [Email](mailto:timoteo@infosyscap.net)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/timoteo-capurro)
+  <div class="section">
+    <h2>Cosa facciamo?</h2>
+    <ul>
+      <li><strong>Full-stack Development</strong>: Creazione di applicazioni web moderne con tecnologie come **React**, **Node.js**, **Spring Boot**.</li>
+      <li><strong>Amministrazione di Sistema</strong>: Gestione e ottimizzazione di server, soluzioni cloud sicure e automazione.</li>
+      <li><strong>Consulenza IT</strong>: Offriamo consulenze su soluzioni IT personalizzate per PMI e professionisti.</li>
+    </ul>
+  </div>
 
-## Licenza
+  <div class="section">
+    <h2>Progetti in Evidenza 🌟</h2>
+    <h3><a href="https://www.focusfield.it">FocusField+</a></h3>
+    <p>Un'app di benessere che integra attività basate sull'umore, esercizi di respirazione e musica personalizzata.</p>
 
-Tutti i progetti sono distribuiti sotto la licenza [MIT](https://opensource.org/licenses/MIT), salvo diversa indicazione.
+    <h3><a href="https://www.infosyscap.net">Infosyscap</a></h3>
+    <p>Soluzioni IT per la gestione delle infrastrutture, con un focus sulla **sicurezza** e l'uso delle **tecnologie open source**.</p>
+  </div>
+
+  <div class="section">
+    <h2>Competenze e Contributi 🛠</h2>
+    <p>Siamo attivamente coinvolti in progetti **open source** e contribuiamo alla crescita di tecnologie utilizzate in tutto il mondo. Dai un'occhiata ai nostri repository per vedere i progetti a cui abbiamo contribuito.</p>
+  </div>
+
+  <div class="section">
+    <h2>Contattami 📩</h2>
+    <p>Se desideri metterti in contatto o discutere di progetti, non esitare a contattarmi:</p>
+    <ul>
+      <li>Email: <a href="mailto:timoteo@infosyscap.net">timoteo@infosyscap.net</a></li>
+      <li>LinkedIn: <a href="https://www.linkedin.com/in/timoteo-capurro">Timoteo Capurro</a></li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Licenza 📝</h2>
+    <p>Tutti i progetti sono distribuiti sotto la licenza <a href="https://opensource.org/licenses/MIT">MIT</a>.</p>
+  </div>
+
+</body>
+</html>
+
