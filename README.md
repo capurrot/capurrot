@@ -9,6 +9,16 @@ Sono **Timoteo Capurro**, un **freelance IT specialist** con esperienza sia come
 ## 🌱 Cosa faccio?
 
 - **Full-stack Development**: Creazione di applicazioni web moderne con tecnologie come **React**, **Node.js**, **Spring Boot**.
+
+## 🛠 Tecnologie Utilizzate
+
+- **React**: <i class="fab fa-react"></i>
+- **Node.js**: <i class="fab fa-node"></i>
+- **Spring Boot**: <i class="fab fa-java"></i>
+- **Docker**: <i class="fab fa-docker"></i>
+- **PostgreSQL**: <i class="fas fa-database"></i>
+
+  
 - **Amministrazione di Sistema**: Gestione e ottimizzazione di server, soluzioni cloud sicure e automazione.
 - **Consulenza IT**: Offro consulenze su soluzioni IT personalizzate per PMI e professionisti.
 
