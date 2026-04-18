@@ -264,7 +264,11 @@ CI/CD     → GitHub Actions
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/capurrot/capurrot/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/capurrot/capurrot/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/capurrot/capurrot/output/github-contribution-grid-snake.svg"/>
+    <img src="https://raw.githubusercontent.com/capurrot/capurrot/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  </picture>
 </p>
 
 <img src="https://raw.githubusercontent.com/BrunoSobrino/TheRealSuperBot/main/media/linegit.gif" width="100%"/>
@@ -284,7 +288,7 @@ CI/CD     → GitHub Actions
 <br/>
 <sub>Scaling & new features</sub>
 <br/><br/>
-<img src="https://progress-bar.dev/75/?scale=100&title=progress&width=150&color=7C4DFF&suffix=%25"/>
+<img src="https://img.shields.io/badge/progress-75%25-7C4DFF?style=for-the-badge&labelColor=0D1117" alt="75%"/>
 </td>
 <td width="33%" align="center">
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
@@ -293,7 +297,7 @@ CI/CD     → GitHub Actions
 <br/>
 <sub>Platform & clients</sub>
 <br/><br/>
-<img src="https://progress-bar.dev/60/?scale=100&title=progress&width=150&color=7C4DFF&suffix=%25"/>
+<img src="https://img.shields.io/badge/progress-60%25-7C4DFF?style=for-the-badge&labelColor=0D1117" alt="60%"/>
 </td>
 <td width="33%" align="center">
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100"/>
@@ -302,7 +306,7 @@ CI/CD     → GitHub Actions
 <br/>
 <sub>Contributing & learning</sub>
 <br/><br/>
-<img src="https://progress-bar.dev/40/?scale=100&title=progress&width=150&color=7C4DFF&suffix=%25"/>
+<img src="https://img.shields.io/badge/progress-40%25-7C4DFF?style=for-the-badge&labelColor=0D1117" alt="40%"/>
 </td>
 </tr>
 </table>
