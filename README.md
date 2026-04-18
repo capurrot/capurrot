@@ -209,7 +209,7 @@ perché il software migliore si costruisce insieme.
 </p>
 
 <p align="center">
-  <a href="mailto:timoteo@infosyscap.net">
+  <a href="mailto:mail@infosyscap.net">
     <img src="https://img.shields.io/badge/Scrivimi%20un'email-D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/timoteo-capurro">
