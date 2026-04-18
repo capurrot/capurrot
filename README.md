@@ -27,8 +27,8 @@
   <a href="https://www.infosyscap.net">
     <img src="https://img.shields.io/badge/-infosyscap.net-7C4DFF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Website"/>
   </a>
-  <a href="mailto:timoteo@infosyscap.net">
-    <img src="https://img.shields.io/badge/-timoteo@infosyscap.net-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/>
+  <a href="mailto:mail@infosyscap.net">
+    <img src="https://img.shields.io/badge/-mail@infosyscap.net-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/timoteo-capurro">
     <img src="https://img.shields.io/badge/-Timoteo_Capurro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
@@ -60,27 +60,27 @@
 
 ```typescript
 const timoteo: Developer = {
-  name:       "Timoteo Capurro",
-  role:       "Freelance IT Specialist",
-  location:   "Italy 🇮🇹",
-  
+  name: "Timoteo Capurro",
+  role: "Freelance IT Specialist",
+  location: "Italy 🇮🇹",
+
   expertise: {
-    frontend:  ["React", "TypeScript", "Redux", "Tailwind"],
-    backend:   ["Node.js", "Spring Boot", "Express", "REST"],
-    database:  ["PostgreSQL", "MongoDB", "Redis"],
-    devops:    ["Docker", "Linux", "Nginx", "CI/CD"],
-    sysadmin:  ["Server hardening", "Cloud", "Automation"]
+    frontend: ["React", "TypeScript", "Redux", "Tailwind"],
+    backend: ["Node.js", "Spring Boot", "Express", "REST"],
+    database: ["PostgreSQL", "MongoDB", "Redis"],
+    devops: ["Docker", "Linux", "Nginx", "CI/CD"],
+    sysadmin: ["Server hardening", "Cloud", "Automation"],
   },
-  
+
   currentFocus: [
     "🧘 Scaling FocusField+",
     "🏢 Growing Infosyscap",
     "🌱 Contributing to OSS",
-    "📚 Always learning"
+    "📚 Always learning",
   ],
-  
+
   philosophy: "Sicurezza, scalabilità, software pulito.",
-  openTo:     ["Consulenza", "Freelance", "Collaborazioni"]
+  openTo: ["Consulenza", "Freelance", "Collaborazioni"],
 };
 ```
 
@@ -130,31 +130,37 @@ const timoteo: Developer = {
 <div align="center">
 
 #### 💻 Languages
+
 <p>
 <img src="https://skillicons.dev/icons?i=js,ts,java,python,bash,html,css" />
 </p>
 
 #### 🎨 Frontend
+
 <p>
 <img src="https://skillicons.dev/icons?i=react,redux,bootstrap,tailwind,vite,sass" />
 </p>
 
 #### ⚙️ Backend
+
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,spring,hibernate" />
 </p>
 
 #### 🗄️ Database
+
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
 </p>
 
 #### ☁️ DevOps & Cloud
+
 <p>
 <img src="https://skillicons.dev/icons?i=docker,linux,nginx,githubactions,git,github" />
 </p>
 
 #### 🧰 Tools
+
 <p>
 <img src="https://skillicons.dev/icons?i=vscode,idea,postman,figma,npm,yarn" />
 </p>
@@ -178,14 +184,16 @@ const timoteo: Developer = {
 > **App di benessere mentale** con attività mood-based, esercizi di respirazione guidati e playlist musicali personalizzate per ogni stato d'animo.
 
 **🔧 Stack**
+
 ```
 Frontend  → React + TypeScript
-Backend   → Node.js + Express  
+Backend   → Node.js + Express
 Database  → PostgreSQL
 Deploy    → Docker + Nginx
 ```
 
 **✨ Highlights**
+
 - 🎵 Algoritmo di raccomandazione musicale
 - 🫁 Breathing exercises interattivi
 - 📊 Mood tracking nel tempo
@@ -201,6 +209,7 @@ Deploy    → Docker + Nginx
 > **Soluzioni IT professionali** per infrastrutture moderne. Focus su sicurezza, affidabilità e tecnologie open source.
 
 **🔧 Stack**
+
 ```
 Infra     → Linux (Debian/Ubuntu)
 Container → Docker + Docker Compose
@@ -209,6 +218,7 @@ CI/CD     → GitHub Actions
 ```
 
 **✨ Highlights**
+
 - 🛡️ Server hardening & monitoring
 - ☁️ Cloud migration & strategy
 - 🔄 Backup & disaster recovery
@@ -370,7 +380,7 @@ Infrastrutture, web app, consulenza strategica: costruiamo insieme qualcosa di s
 
 <br/>
 
-<a href="mailto:timoteo@infosyscap.net">
+<a href="mailto:mail@infosyscap.net">
   <img src="https://img.shields.io/badge/📧_Scrivimi-EA4335?style=for-the-badge&logoColor=white&labelColor=0D1117" height="45"/>
 </a>
 &nbsp;
