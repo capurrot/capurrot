@@ -3,7 +3,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <a href="https://github.com/capurrot">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=250&section=header&text=Timoteo%20Capurro&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Freelance%20IT%20Specialist%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20SysAdmin&descAlignY=55&descSize=18" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1e,50:7c4dff,100:2e7d32&height=250&section=header&text=Timoteo%20Capurro&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Freelance%20IT%20Specialist%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20SysAdmin&descAlignY=55&descSize=18" alt="header"/>
 </a>
 
 <!-- BANNER PERSONALE -->
@@ -25,30 +25,30 @@
 
 <p align="center">
   <a href="https://www.infosyscap.net">
-    <img src="https://img.shields.io/badge/-infosyscap.net-7C4DFF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Website"/>
+    <img src="https://img.shields.io/badge/-infosyscap.net-7C4DFF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d0d1e" alt="Website"/>
   </a>
   <a href="mailto:mail@infosyscap.net">
-    <img src="https://img.shields.io/badge/-mail@infosyscap.net-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/>
+    <img src="https://img.shields.io/badge/-mail@infosyscap.net-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d1e" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/timoteo-capurro">
-    <img src="https://img.shields.io/badge/-Timoteo_Capurro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-Timoteo_Capurro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d1e" alt="LinkedIn"/>
   </a>
   <a href="https://www.focusfield.it">
-    <img src="https://img.shields.io/badge/-FocusField+-00C9A7?style=for-the-badge&logo=headspace&logoColor=white&labelColor=0D1117" alt="FocusField"/>
+    <img src="https://img.shields.io/badge/-FocusField+-69F073?style=for-the-badge&logo=headspace&logoColor=0d0d1e&labelColor=0d0d1e" alt="FocusField"/>
   </a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=capurrot&label=PROFILE+VIEWS&color=7C4DFF&style=for-the-badge" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/capurrot?label=FOLLOWERS&style=for-the-badge&color=7C4DFF&labelColor=0D1117" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/capurrot?label=STARS&style=for-the-badge&color=7C4DFF&labelColor=0D1117" alt="Stars"/>
+  <img src="https://img.shields.io/github/followers/capurrot?label=FOLLOWERS&style=for-the-badge&color=7C4DFF&labelColor=0d0d1e" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/capurrot?label=STARS&style=for-the-badge&color=7C4DFF&labelColor=0d0d1e" alt="Stars"/>
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    DIVIDER                                       -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://raw.githubusercontent.com/BrunoSobrino/TheRealSuperBot/main/media/linegit.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c4dff,100:2e7d32&height=3" width="100%" alt="divider"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    ABOUT ME                                      -->
@@ -86,7 +86,7 @@ const timoteo: Developer = {
 
 <br clear="right"/>
 
-<img src="https://raw.githubusercontent.com/BrunoSobrino/TheRealSuperBot/main/media/linegit.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c4dff,100:2e7d32&height=3" width="100%" alt="divider"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    WHAT I DO                                     -->
@@ -119,7 +119,7 @@ const timoteo: Developer = {
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/BrunoSobrino/TheRealSuperBot/main/media/linegit.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c4dff,100:2e7d32&height=3" width="100%" alt="divider"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    TECH STACK                                    -->
@@ -167,7 +167,7 @@ const timoteo: Developer = {
 
 </div>
 
-<img src="https://raw.githubusercontent.com/BrunoSobrino/TheRealSuperBot/main/media/linegit.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c4dff,100:2e7d32&height=3" width="100%" alt="divider"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    FEATURED PROJECTS                             -->
@@ -199,7 +199,7 @@ Deploy    → Docker + Nginx
 - 📊 Mood tracking nel tempo
 - 🔐 Privacy-first architecture
 
-[![Visit](https://img.shields.io/badge/🌐_Visita_il_sito-focusfield.it-00C9A7?style=for-the-badge&labelColor=0D1117)](https://www.focusfield.it)
+[![Visit](https://img.shields.io/badge/🌐_Visita_il_sito-focusfield.it-69F073?style=for-the-badge&labelColor=0d0d1e)](https://www.focusfield.it)
 
 </td>
 <td width="50%" valign="top">
@@ -224,13 +224,13 @@ CI/CD     → GitHub Actions
 - 🔄 Backup & disaster recovery
 - 🎓 Consulenza per PMI
 
-[![Visit](https://img.shields.io/badge/🌐_Visita_il_sito-infosyscap.net-7C4DFF?style=for-the-badge&labelColor=0D1117)](https://www.infosyscap.net)
+[![Visit](https://img.shields.io/badge/🌐_Visita_il_sito-infosyscap.net-7C4DFF?style=for-the-badge&labelColor=0d0d1e)](https://www.infosyscap.net)
 
 </td>
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/BrunoSobrino/TheRealSuperBot/main/media/linegit.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c4dff,100:2e7d32&height=3" width="100%" alt="divider"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    GITHUB STATS                                  -->
@@ -241,10 +241,10 @@ CI/CD     → GitHub Actions
 <div align="center">
 
 <a href="https://github.com/capurrot">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=capurrot&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C4DFF&icon_color=7C4DFF&text_color=C9D1D9&include_all_commits=true&count_private=true" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=capurrot&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1e&title_color=7C4DFF&icon_color=7C4DFF&text_color=C9D1D9&include_all_commits=true&count_private=true" />
 </a>
 <a href="https://github.com/capurrot">
-  <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=capurrot&theme=tokyonight&hide_border=true&background=0D1117&ring=7C4DFF&fire=7C4DFF&currStreakLabel=7C4DFF&sideLabels=7C4DFF&dates=C9D1D9" />
+  <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=capurrot&theme=tokyonight&hide_border=true&background=0d0d1e&ring=7C4DFF&fire=69F073&currStreakLabel=69F073&sideLabels=B39DFF&dates=C9D1D9" />
 </a>
 
 </div>
@@ -252,7 +252,7 @@ CI/CD     → GitHub Actions
 <div align="center">
 
 <a href="https://github.com/capurrot">
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=capurrot&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C4DFF&text_color=C9D1D9&langs_count=10&card_width=445" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=capurrot&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1e&title_color=7C4DFF&text_color=C9D1D9&langs_count=10&card_width=445" />
 </a>
 
 </div>
@@ -268,7 +268,7 @@ CI/CD     → GitHub Actions
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=capurrot&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7C4DFF&line=7C4DFF&point=FFFFFF&area=true&area_color=7C4DFF" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=capurrot&theme=github-compact&hide_border=true&bg_color=0d0d1e&color=B39DFF&line=69F073&point=FFFFFF&area=true&area_color=7C4DFF" alt="Activity Graph"/>
 </p>
 
 ### 🐍 Contribution Snake
@@ -281,7 +281,7 @@ CI/CD     → GitHub Actions
   </picture>
 </p>
 
-<img src="https://raw.githubusercontent.com/BrunoSobrino/TheRealSuperBot/main/media/linegit.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c4dff,100:2e7d32&height=3" width="100%" alt="divider"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    CURRENT FOCUS                                 -->
@@ -298,7 +298,7 @@ CI/CD     → GitHub Actions
 <br/>
 <sub>Scaling & new features</sub>
 <br/><br/>
-<img src="https://img.shields.io/badge/progress-75%25-7C4DFF?style=for-the-badge&labelColor=0D1117" alt="75%"/>
+<img src="https://img.shields.io/badge/progress-75%25-7C4DFF?style=for-the-badge&labelColor=0d0d1e" alt="75%"/>
 </td>
 <td width="33%" align="center">
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
@@ -307,7 +307,7 @@ CI/CD     → GitHub Actions
 <br/>
 <sub>Platform & clients</sub>
 <br/><br/>
-<img src="https://img.shields.io/badge/progress-60%25-7C4DFF?style=for-the-badge&labelColor=0D1117" alt="60%"/>
+<img src="https://img.shields.io/badge/progress-60%25-2E7D32?style=for-the-badge&labelColor=0d0d1e" alt="60%"/>
 </td>
 <td width="33%" align="center">
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100"/>
@@ -316,12 +316,12 @@ CI/CD     → GitHub Actions
 <br/>
 <sub>Contributing & learning</sub>
 <br/><br/>
-<img src="https://img.shields.io/badge/progress-40%25-7C4DFF?style=for-the-badge&labelColor=0D1117" alt="40%"/>
+<img src="https://img.shields.io/badge/progress-40%25-69F073?style=for-the-badge&labelColor=0d0d1e" alt="40%"/>
 </td>
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/BrunoSobrino/TheRealSuperBot/main/media/linegit.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c4dff,100:2e7d32&height=3" width="100%" alt="divider"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    DEV QUOTE                                     -->
@@ -357,7 +357,7 @@ CI/CD     → GitHub Actions
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/BrunoSobrino/TheRealSuperBot/main/media/linegit.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c4dff,100:2e7d32&height=3" width="100%" alt="divider"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    LET'S CONNECT                                 -->
@@ -381,15 +381,15 @@ Infrastrutture, web app, consulenza strategica: costruiamo insieme qualcosa di s
 <br/>
 
 <a href="mailto:mail@infosyscap.net">
-  <img src="https://img.shields.io/badge/📧_Scrivimi-EA4335?style=for-the-badge&logoColor=white&labelColor=0D1117" height="45"/>
+  <img src="https://img.shields.io/badge/📧_Scrivimi-EA4335?style=for-the-badge&logoColor=white&labelColor=0d0d1e" height="45"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/timoteo-capurro">
-  <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logoColor=white&labelColor=0D1117" height="45"/>
+  <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logoColor=white&labelColor=0d0d1e" height="45"/>
 </a>
 &nbsp;
 <a href="https://www.infosyscap.net">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-7C4DFF?style=for-the-badge&logoColor=white&labelColor=0D1117" height="45"/>
+  <img src="https://img.shields.io/badge/🌐_Portfolio-7C4DFF?style=for-the-badge&logoColor=white&labelColor=0d0d1e" height="45"/>
 </a>
 
 </div>
@@ -414,4 +414,4 @@ Infrastrutture, web app, consulenza strategica: costruiamo insieme qualcosa di s
 <!--                    FOOTER WAVE                                   -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=twinkling" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e7d32,50:7c4dff,100:0d0d1e&height=120&section=footer&animation=twinkling" alt="footer"/>
